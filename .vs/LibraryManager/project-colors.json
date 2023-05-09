@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0fe1c24-7724-44ed-9f5c-d99d50f7f780": {
+      "ProjectGuid": "c0fe1c24-7724-44ed-9f5c-d99d50f7f780",
+      "DisplayName": "LibraryManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
